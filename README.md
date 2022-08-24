@@ -8,7 +8,7 @@
 
 <h1 align="center">Pacmen</h1>
 <div align="center">
-  <img alt ="Pacman" src="images/Pacman3.png">
+  <img alt ="Pacman" src="images/PacMan3.png">
 </div>
 
 <p align="center">
