@@ -6,9 +6,9 @@
   <!-- <a href="https://pacmen.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Pacmen</h1>
+<h1 align="center">PacMan</h1>
 <div align="center">
-  <img alt ="Pacman" src="images/PacMan3.png">
+  <img alt ="Pacman" src="images/Pacman3.png">
 </div>
 
 <p align="center">
@@ -94,4 +94,3 @@ Made by: heart <a href="https://github.com/JBD84" target="_blank">Javier Bambare
 &#xa0;
 
 <a href="#top">Back to top</a>
-
